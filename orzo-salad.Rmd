@@ -1,0 +1,34 @@
+# Orzo Salad
+
+\begin{recipe}[Spinach Orzo Salad]{Spinach Orzo Salad}{20 Portions}{30 minutes}
+\freeform Good to share as a holiday salad!
+\freeform\rule{\textwidth}{0.05pt}
+\ingredient[16]{oz}{Orzo pasta}
+
+Cook orzo according to directions on package --- slightly al dente is fine as well. Drain and rise with cold water.
+
+\ingredient[9]{oz}{spinach}
+\ingredient[\fr34]{cup}{dried cranberries}
+
+Finely chop dried cranberries (craisins) and spinach. Add to orzo in a large serving bowl.
+
+\ingredient[\fr34]{cup}{feta cheese}
+\ingredient[\fr34]{cup}{balsamic vinaigrette}
+\ingredient[\fr12]{tsp}{dried basil}
+\ingredient[\fr14]{tsp}{white pepper, ground}
+
+Add these ingredients to the mix and toss so that greens are well-coated with the vinaigrette. Flavored vinaigrette is a nice touch (e.g., strawberry). Refrigerate if not serving immediately.
+
+\ingredient[\fr14]{cup}{sunflower seeds}
+
+Toss in sunflower seeds prior to serving.
+
+%\freeform\rule{\textwidth}{0.05pt}\newpage
+\freeform\rule{\textwidth}{0.05pt}
+%\newstep
+
+\freeform Jon's recipe is the best!!!
+
+%\freeform\rule{\textwidth}{0.05pt}
+%Serve with couscous or some grain and fresh bread. Yummy!
+\end{recipe}

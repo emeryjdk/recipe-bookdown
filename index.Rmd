@@ -1,0 +1,32 @@
+---
+title: "Food I Can Make in Less Than an Hour"
+author: "Jonathan Emery"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+classoption: openany
+#bibliography: [book.bib, packages.bib]
+#biblio-style: apalike
+link-citations: yes
+#github-repo: rstudio/bookdown-demo
+description: "This is recipe book."
+---
+
+# Preface {-}
+
+This is a book of recipes. Here's how you can contribute a recipe:
+
+- Fork this repository on GitHub
+- Clone your forked repository to your computer: `$ git clone ...`
+- Open your cloned repository on your computer with [R Studio](https://rstudio.com/products/rstudio/) or a text editor of your choice
+- Create a new file named after the recipe's title `new-recipe.Rmd` (note: the `.Rmd` extension is very important; see other `.Rmd` files in the repository as examples)
+- At the top of the new `.Rmd` file for your recipe make sure the first line looks like this: `# [Title of Recipe]`
+- Add the LaTeX code for the recipe using the [Cuisine TeX package](https://ctan.org/pkg/cuisine?lang=en). We recommend look at the existing recipes in the other `.Rmd` files as examples on how to format your recipe.
+- Commit your changes to your local repository's master branch
+- Push the changes up to your Forked repository on GitHub
+- Open a pull request from your forked repository to the original repository
+
+We will merge your pull request and add your recipe to the book.
+
+**Enjoy!**

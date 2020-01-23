@@ -1,0 +1,27 @@
+\usepackage{booktabs}
+\usepackage{amsthm}
+\makeatletter
+\def\thm@space@setup{%
+  \thm@preskip=8pt plus 2pt minus 4pt
+  \thm@postskip=\thm@preskip
+}
+\makeatother
+
+\usepackage[margin=1.25in]{geometry}
+
+\usepackage[contents,index]{cuisine}
+\usepackage{xcolor}
+\renewcommand{\recipestepnumberfont}{\color[HTML]{C59F61}}% must use uppercase letters
+\renewcommand*{\recipenumberfont}{\large\bfseries\sffamily} %set recipe number font
+\renewcommand*{\recipequantityfont}{\sffamily\bfseries} %set recipe quantity font
+\renewcommand*{\recipeunitfont}{\sffamily} %set recipe unit font
+\renewcommand*{\recipeingredientfont}{\sffamily} %set recipe ingredient font
+\renewcommand*{\recipefreeformfont}{\itshape} %set recipe free-form font
+\RecipeWidths{1.25\columnwidth}
+{0.2\columnwidth}
+{0.05\columnwidth}
+{0.4\columnwidth}
+{0.1\columnwidth}
+{0.1\columnwidth}
+%\RecipeWidths{Total recipe width} {Number of servings width} {Step
+%number width} {Ingredient width} {Quantity width} {Units width}

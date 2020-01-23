@@ -1,0 +1,40 @@
+# Banana Bread
+
+\begin{recipe}[BananaBread]{J. Wolff Banana Bread}{1 loaf}{90 min (30 min prep, 60 min bake)}
+\freeform This recipe makes one loaf of banana bread. Bake it in a J. Wolff bread baker --- although other stone breadpans should work, presumably.
+\freeform\rule{\textwidth}{0.05pt}
+
+\newstep Preheat oven to 350 \degrees F.
+\ingredient[2-3]{}{overripe bananas}
+
+Mash bananas in a mixing bowl until relatively smooth.
+
+\ingredient[\fr34]{cup}{sugar}
+\ingredient[1]{tsp}{vanilla}
+\ingredient[2]{tbs}{oil (canola or olive)}
+\ingredient[\fr13]{cup}{milk)}
+
+Beat sugar, vanilla, olive oil, and milk into the mashed bananas.
+
+\ingredient[1\fr12]{cup}{flour}
+\ingredient[\fr13]{tsp}{baking soda}
+\ingredient[\fr3/4]{tsp}{salt}
+\ingredient[\fr3/4]{tbs}{ground cinnamon}
+\ingredient[\fr1/4]{tsp}{nutmeg}
+
+Add flour, baking soda, salt, cinnamon, and nutmeg. Gently mix just to incorporate --- do not overmix.
+
+\ingredient[\fr12]{cup}{chocolate chips or walnuts}
+
+Fold in walnuts or chocolate chips (or both).
+
+\ingredient[\fr13]{cup}{boiling water}
+
+Pour in boiling water and mix until batter is smooth. It may be a bit watery.
+
+\newstep
+
+Grease stoneware baker and pour in batter. Cook for 60-70 min (check frequently) or until a knife inserted into the bread comes out clean.
+\end{recipe}
+
+%From Jason Wolff Stoneware

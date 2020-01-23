@@ -1,0 +1,46 @@
+# Farmers Market Pasta
+
+\begin{recipe}[FarmersMarketPasta]{Farmers' Market Pasta}{6 Portions}{30 min}
+\freeform Grab some stuff from the farmers' market an dmake this pasta. Eat it hot or cold.
+\freeform\rule{\textwidth}{0.05pt}
+\ingredient[12]{oz}{cavatappi}
+
+Cook pasta according to package directions for \textit{al dente}. Drain and transfer pasta to large bow.
+
+\ingredient[1 of 4]{tbs}{olive oil}
+\ingredient[2]{cup}{multicolored cherry tomatoes}
+\ingredient[4]{clove}{garlic}
+\ingredient[1]{tsp}{kosher salt}
+\ingredient[\fr12]{tsp}{ground black pepper}
+
+Heat 1 tbs oil in a large skillet at medium heat. Add tomatoes, garlic, salt, and pepper. Cook, stirring often, until tomatoes begin to soften (2-3 min).  
+
+\ingredient[1]{}{zucchini}
+\ingredient[1]{}{red onion, wedged}
+
+Add zucchini and onion and continue cooking until tomatoes burst and zucchini is almost tender (3-4 min).
+
+\ingredient[1]{cup}{corn}
+
+Finally, add corn and cook, stirring constantly, for 1 additional minute.
+
+\ingredient[2]{cups}{packed arugula}
+\ingredient[1]{cup}{fresh basil, torn}
+\ingredient[3 of 4]{tbs}{olive oil}
+
+Add tomato mixture to posta. Toss with arugula, basil, and remaining olive oil.
+
+\ingredient[\fr12]{cup}{shaved Parmesan}
+
+Top with Parmesan and serve warm or cold.
+
+
+%\freeform\rule{\textwidth}{0.05pt}\newpage
+\freeform\rule{\textwidth}{0.05pt}
+%\newstep
+
+%\freeform\rule{\textwidth}{0.05pt}
+%Serve with couscous or some grain and fresh bread. Yummy!
+\end{recipe}
+
+%From RealSimple

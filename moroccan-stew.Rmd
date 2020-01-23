@@ -1,0 +1,44 @@
+# Moroccan Lamb (or Turkey) Stew 
+
+\begin{recipe}[MoroccanStew]{Moroccan Lamb (or Turkey) Stew}{4 Portions}{1 hour}
+\freeform One of my absolute favorite meals.
+\freeform\rule{\textwidth}{0.05pt}
+\ingredient[1]{lb}{lamb or turkey}
+
+In a well-oiled pan, saut\'{e} meat until over medium-high heat until cooked through. Set cooked meat aside. Deglaze pan if you like, or if meat was fatty.
+
+\ingredient[2]{cups}{onion}
+\ingredient[\fr12]{cup}{carrots}
+
+Add oil to pan. Chop onions vertically and carrots diagonally. Add to pan and saut\'{e} for 4-5 minutes on medium heat, or until soft.
+
+\ingredient[\fr34]{tps}{cumin}
+\ingredient[\fr34]{tps}{cinnamon}
+\ingredient[\fr12]{tps}{coriander}
+\ingredient[\fr14]{tps}{red pepper flakes}
+
+Add coriander, cumin, red pepper flakes, and cinnamon to vegetables, quickly mixing in spices. Saut\'{e} for 30 seconds, stirring constantly.
+
+\ingredient[]{}{Reserved lamb/turkey}
+\ingredient[2]{cups}{broth}
+\ingredient[\fr12]{cup}{golden raisins}
+\ingredient[3]{tbs}{tomato paste}
+\ingredient[1\fr12]{tbs}{grated lemon rind}
+\ingredient[\fr14]{tps}{salt}
+\ingredient[15]{oz}{chick peas (rinsed, drained)}
+
+Add reserved meat, broth, raisins, tomato paste, lemon rind, salt, and chick peas. Bring to a boil, then reduce heat and simmer for 4 minutes (or until mixture thickens). Remove from heat
+
+\ingredient[\fr12]{cup}{chopped, fresh cilantro}
+\ingredient[1]{tbs}{fresh lemon juice}
+
+Stir in cilantro and lemon juice.
+
+
+%\freeform\rule{\textwidth}{0.05pt}\newpage
+\freeform\rule{\textwidth}{0.05pt}
+%\newstep
+
+%\freeform\rule{\textwidth}{0.05pt}
+%Serve with couscous or some grain and fresh bread. Yummy!
+\end{recipe}
