@@ -8,9 +8,14 @@ These instructions require a web browser. No software installations are necessar
 - While logged in, visit: https://github.com/chrisdaaz/recipe-bookdown
 - At the top-right of the page, click on the `Fork` button:
 
+![image](https://user-images.githubusercontent.com/24395592/73391514-bf991200-429d-11ea-9299-7946b6d71662.png)
+
 _This action will create a copy of the project files for you to edit. After the copying is complete, you should now be looking at your version of the project at `https://github.com/[YOUR_USERNAME]/recipe-bookdown`_
 
 - Click on the `Create new file` button
+
+![image](https://user-images.githubusercontent.com/24395592/73391559-d3dd0f00-429d-11ea-8293-6006b1e999b9.png)
+
 - Give the new file a name based on your recipe (e.g. `mushroom-pizza.Rmd`)
 - In the `Edit new file` window, paste the following text:
 
@@ -46,6 +51,9 @@ Instructions for what to do with the above ingredients.
 - Click on the `Commit changes` button
 - Go back to the original repository: https://github.com/chrisdaaz/recipe-bookdown
 - Click on `New Pull Request`
+
+![image](https://user-images.githubusercontent.com/24395592/73391624-eeaf8380-429d-11ea-97ca-b3c57bff7043.png)
+
 - Click on `compare across forks`
 - In the head repository drop-down menu, select your fork: `[YOUR_USERNAME]/recipe-bookdown`
 - Click on `Create pull request`
