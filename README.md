@@ -16,7 +16,7 @@ _This action will create a copy of the project files for you to edit. After the 
 
 ![image](https://user-images.githubusercontent.com/24395592/73391559-d3dd0f00-429d-11ea-8293-6006b1e999b9.png)
 
-- Give the new file a name based on your recipe (e.g. `mushroom-pizza.Rmd`)
+- Give the new file a name based on your recipe (e.g. `mushroom-pizza.Rmd`). It is **very** important that the file extension is `.Rmd`
 - In the `Edit new file` window, paste the following text:
 
 ```
@@ -58,7 +58,10 @@ Instructions for what to do with the above ingredients.
 ![image](https://user-images.githubusercontent.com/24395592/73391624-eeaf8380-429d-11ea-97ca-b3c57bff7043.png)
 
 - Click on `compare across forks`
-- In the head repository drop-down menu, select your fork: `[YOUR_USERNAME]/recipe-bookdown`
+- We want to pull edits from the head repository (i.e. your forked repository) to the base repository (`chrisdaaz/recipe-bookdown`). In the drop-down menu, select your fork: `[YOUR_USERNAME]/recipe-bookdown`
+
+![image](https://user-images.githubusercontent.com/24395592/73395126-7a2c1300-42a4-11ea-8b20-0764e3876604.png)
+
 - Click on `Create pull request`
 - Enter a name for the pull request (e.g. `Chris's Recipe`)
 - Click on `Create pull request`
