@@ -11,15 +11,34 @@ These instructions require a web browser. No software installations are necessar
 _This action will create a copy of the project files for you to edit. After the copying is complete, you should now be looking at your version of the project at `https://github.com/[YOUR_USERNAME]/recipe-bookdown`_
 
 - Click on the `Create new file` button
+- Give the new file a name based on your recipe (e.g. `mushroom-pizza.Rmd`)
+- In the `Edit new file` window, paste the following text:
 
-- Edit the following lines in the `recipe-title.Rmd` file:
+```
+# Title of Recipe
+
+\begin{recipe}[title]{number of services}{preparation time}
+
+\ingredient{Numerical quantity}{Unit of measurement}{Ingredient}
+\ingredient{Numerical quantity}{Unit of measurement}{Ingredient}
+
+Instructions for what to do with the above ingredients.
+
+\begin{comment}
+    Note: keep adding ingredients and instructions to finish the recipe.
+\end{comment}
+
+\end{recipe}
+```
+
+- Edit the text using this as a guide:
 
 | Line Number | Text to Edit                                                     | Example                                                                                                                                | Description                                                                                                                                                                                                                       |
 |-------------|------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1           | # Title of Recipe                                                | # Moroccan Stew                                                                                                                        | Keep the `#` at the beginning of the line and enter the title of your recipe                                                                                                                                                      |
-| 3           | \begin{recipe}[title]{number of services}{preparation time}      | \begin{recipe}[MoroccanStew]{Moroccan Lamb (or Turkey) Stew}{4 Portions}{1 hour}                                                       | Begin the recipe by entering the title, portions, and estimated time it takes to make.                                                                                                                                            |
-| 5-7+        | \ingredient{Numerical quantity}{Unit of measurement}{Ingredient} | \ingredient[2]{cups}{onion}<br>\ingredient[\fr12]{cup}{carrots}                                                                        | Add a line for an ingredient: start with the name of the ingredient, the numerical quanity, and unit of measurement (optional). For any step in the cooking process, you can add multiple ingredients following the same pattern. |
-| 8+          | Instructions for what to do with the above ingredients.          | Add oil to pan. Chop onions vertically and carrots diagonally. Add to pan and saut\'{e} for 4-5 minutes on medium heat, or until soft. | Explain this step in the cooking process in relation the ingredients mentioned above.                                                                                                                                             |
+| 1           | `# Title of Recipe`                                                | `# Moroccan Stew`                                                                                                                        | Keep the `#` at the beginning of the line and enter the title of your recipe                                                                                                                                                      |
+| 3           | `\begin{recipe}[title]{number of services}{preparation time}`      | `\begin{recipe}[MoroccanStew]{Moroccan Lamb (or Turkey) Stew}{4 Portions}{1 hour}`                                                       | Begin the recipe by entering the title, portions, and estimated time it takes to make.                                                                                                                                            |
+| 5-7+        | `\ingredient{Numerical quantity}{Unit of measurement}{Ingredient}` | `\ingredient[2]{cups}{onion}<br>\ingredient[\fr12]{cup}{carrots}`                                                                        | Add a line for an ingredient: start with the name of the ingredient, the numerical quanity, and unit of measurement (optional). For any step in the cooking process, you can add multiple ingredients following the same pattern. |
+| 8+          | `Instructions for what to do with the above ingredients.`          | `Add oil to pan. Chop onions vertically and carrots diagonally. Add to pan and saut\'{e} for 4-5 minutes on medium heat, or until soft.` | Explain this step in the cooking process in relation the ingredients mentioned above.                                                                                                                                             |
 
 - Add as many steps and ingredients as you need. Just make sure that the last line in the file is this: `\end{recipe}`
 - When you are ready to save the file, scroll to the bottom of the page and fill out the form with the following information: the name of the edit (e.g. `Adds pizza recipe`) and add an optional description of the edit/
