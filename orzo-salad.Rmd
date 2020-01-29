@@ -1,6 +1,9 @@
+<!-- Type:Salad -->
+<!-- Cook:JEmery -->
+
 # Orzo Salad
 
-\begin{recipe}[Spinach Orzo Salad]{Spinach Orzo Salad}{20 Portions}{30 minutes}
+\begin{recipe}{Spinach Orzo Salad}{20 Portions}{30 minutes}
 \freeform Good to share as a holiday salad!
 \freeform\rule{\textwidth}{0.05pt}
 \ingredient[16]{oz}{Orzo pasta}
@@ -30,5 +33,5 @@ Toss in sunflower seeds prior to serving.
 \freeform Jon's recipe is the best!!!
 
 %\freeform\rule{\textwidth}{0.05pt}
-%Serve with couscous or some grain and fresh bread. Yummy!
+%Serve with couscous or some grain and fresh bread.
 \end{recipe}
