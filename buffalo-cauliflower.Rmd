@@ -3,7 +3,7 @@
 
 # Buffalo Cauliflower
 
-\begin{recipe}[buffaloCauliflower]{Buffalo Cauliflower}{4 servings}{55 minutes}
+\begin{recipe}{Buffalo Cauliflower}{4 servings}{55 minutes}
 \freeform Preheat oven to 450 degrees F.  Line baking sheet with parchment paper or foil.
 \ingredient[2]{}{heads of cauliflower}
 
