@@ -20,9 +20,12 @@ _This action will create a copy of the project files for you to edit. After the 
 - In the `Edit new file` window, paste the following text:
 
 ```
+<!-- Type:Soup -->
+<!-- Cook:JEmery -->
+
 # Title of Recipe
 
-\begin{recipe}[title]{number of services}{preparation time}
+\begin{recipe}{title}{number of servings}{preparation time}
 
 \ingredient{Numerical quantity}{Unit of measurement}{Ingredient}
 \ingredient{Numerical quantity}{Unit of measurement}{Ingredient}
