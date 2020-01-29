@@ -1,5 +1,5 @@
 book_filename: "recipe-bookdown"
 language:
   ui:
-    chapter_name: "Recipe for "
+    chapter_name: "Recipe "
 delete_merged_file: true
