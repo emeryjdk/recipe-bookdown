@@ -1,7 +1,10 @@
+<!-- Type:Pasta -->
+<!-- Cook:JEmery -->
+
 # Farmers Market Pasta
 
 \begin{recipe}[FarmersMarketPasta]{Farmers' Market Pasta}{6 Portions}{30 min}
-\freeform Grab some stuff from the farmers' market an dmake this pasta. Eat it hot or cold.
+\freeform Grab some stuff from the farmers' market and make this pasta. Eat it hot or cold.
 \freeform\rule{\textwidth}{0.05pt}
 \ingredient[12]{oz}{cavatappi}
 
@@ -30,17 +33,15 @@ Finally, add corn and cook, stirring constantly, for 1 additional minute.
 
 Add tomato mixture to posta. Toss with arugula, basil, and remaining olive oil.
 
-\ingredient[\fr12]{cup}{shaved Parmesan}
+\ingredient[\fr12]{cup}{shaved parmesan}
 
-Top with Parmesan and serve warm or cold.
+Top with parmesan cheese and serve warm or cold.
 
 
-%\freeform\rule{\textwidth}{0.05pt}\newpage
 \freeform\rule{\textwidth}{0.05pt}
-%\newstep
 
-%\freeform\rule{\textwidth}{0.05pt}
-%Serve with couscous or some grain and fresh bread. Yummy!
+\freeform\rule{\textwidth}{0.05pt}
+\textit{nomnomnomnomnom}!
 \end{recipe}
 
 %From RealSimple
