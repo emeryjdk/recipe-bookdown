@@ -1,3 +1,5 @@
+/* Default Styles */
+
 p.caption {
   color: #777;
   margin-top: 10px;
@@ -11,4 +13,231 @@ pre {
 }
 pre code {
   white-space: inherit;
+}
+
+/* Solution Buttons */
+
+button {
+    background-color: #555555;
+    border-radius: 1rem;
+    padding: 1rem;
+    width: 100%;
+    color: #fff;
+    font-size: 150%;
+}
+
+button:hover {
+    background-color: #e7e7e7;
+    color: #555;
+}
+
+.solution {
+  background-color: #f0f0f0;
+  padding-top: 1em;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+  margin-top: 0.5em;
+}
+
+.solution:hover {
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+
+.solution p {
+  padding-top: 1rem;
+  padding-left: 0.5rem;
+}
+
+#guide {
+  display:none;
+}
+
+#solution {
+  display:none;
+}
+
+.guide {
+  background-color: #f0f0f0;
+  padding-top: 1em;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+  margin-top: 0.5em;
+}
+
+.guide p {
+  padding-left: 1em;
+}
+
+h6 {
+  visibility: hidden;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+.caption {
+  text-align: center;
+}
+
+caption {
+  color: #fff;
+  font-weight: bold;
+}
+
+/* Northwestern Styles */
+
+h1,h2,h3,h4,h5,h6 {
+  color: rgb(056, 023, 090);
+}
+
+.book .book-body .page-wrapper .page-inner section.normal h1.title {
+  font-size: 3.5rem;
+}
+
+p.author {
+  font-weight: bold;
+}
+
+table caption {
+  font-size: 125%;
+  font-weight: bold;
+  margin: 1em 0 1em 0;
+  color: #716c6b;
+}
+
+.caption {
+  font-size: 125%;
+  font-weight: bold;
+  margin: 1em 0 1em 0;
+  color: #716c6b;
+}
+
+.book.font-family-0 {
+  font-family: Georgia, serif;
+}
+.book.font-family-1 {
+  font-family: Arial, sans-serif;
+}
+
+.book .book-header.fixed {
+  background-color: #401f68 !important;
+}
+
+.book .book-header h1 a, .book .book-header h1 a:hover {
+  color: #fff;
+}
+
+.book .book-header .btn {
+  display: block;
+  height: 50px;
+  padding: 0 15px;
+  border-bottom: none;
+  color: #fff;
+  text-transform: uppercase;
+  line-height: 50px;
+  box-shadow: none !important;
+  position: relative;
+  font-size: 2rem;
+}
+
+.book .book-summary {
+  display:none;
+}
+
+.book.with-summary .book-header.fixed {
+  left: 0;
+}
+
+.book.with-summary .book-body {
+  left: 0;
+}
+
+.book .book-header {
+  font-family: Arial, sans-serif;
+  font-size: 1.85rem;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal {
+  color: #000;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal pre {
+  background: rgb(228, 224, 238);
+}
+
+table {
+  width: 100%;
+  margin: 1em 0 0 0;
+  line-height: 1.5em;
+}
+
+th {
+  background: #716c6b;
+  color: #fff;
+  text-align: left;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal table th {
+  font-weight: normal;
+}
+
+.book .book-summary .book-search input, .book .book-summary .book-search input:focus, .book .book-summary .book-search input:hover {
+  color: #fff;
+}
+
+span.search-highlight {
+  background: rgb(228, 224, 238);
+  color: rgb(038, 008, 065);
+  font-weight:bold;
+}
+
+.figure {
+  text-align: center;
+  background-color: #f0f0f0;
+  padding-top: 1em;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+
+.figure:hover {
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+.book .book-body .page-wrapper .page-inner section.normal a {
+  color: rgb(056, 023, 090);
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal a:hover {
+  color: rgb(056, 023, 090);
+  text-decoration: underline;
+}
+
+nav {
+  display: none;
+}
+
+.button {
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  background-color: #555555 !important;
+  color: #fff !important;
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 1rem 1em;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #fff !important;
+  color: #555 !important;
+  border: 2px solid #555 !important;
 }
