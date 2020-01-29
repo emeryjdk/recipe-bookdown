@@ -5,11 +5,9 @@
 
 \begin{recipe}{Buffalo Cauliflower}{4}{55 minutes}
 
-\freeform Preheat oven to 450 degress F. Line baking sheet with parchment paper or foil.
-
 \ingredient{2}{heads}{cauliflower}
 
-Remove stem and leaves, cut into bite-sized pieces
+Preheat oven to 450 degress F. Line baking sheet with parchment paper or foil. Remove stem and leaves, cut into bite-sized pieces
 
 \ingredient{\fr34}{cup}{baking flour}
 \ingredient{1}{cup}{water}
