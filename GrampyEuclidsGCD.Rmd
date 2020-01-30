@@ -1,5 +1,6 @@
 # Greatest common divisor of $a$ and $b$, $a\leq b$
 _from Aaron Grecius_
+
 **Ingredients** Two positive integers $a$ and $b$, $a\leq b$.
 
 **Cooking Time** Approximately $\log a$ steps.
