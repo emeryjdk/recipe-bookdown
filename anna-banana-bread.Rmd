@@ -1,0 +1,30 @@
+<!-- Type:Dessert -->
+<!-- Cook:AnnaLuce -->
+
+# Anna’s Banana Bread (from ATK)
+
+\begin {recipe}{Anna’s Banana Bread (from ATK)}{10}{2?}
+\freeform Be sure to use very ripe, heavily speckled (or even black) bananas in this recipe. This recipe can be made using 5 thawed frozen bananas; since they release a lot of liquid naturally, they can bypass the microwaving in step 2 and go directly into the fine-mesh strainer. Do not use a thawed frozen banana in step 4; it will be too soft to slice. Instead, simply sprinkle the top of the loaf with sugar. The test kitchen’s preferred loaf pan measures 8½ by 4½ inches; if you use a 9 by 5-inch loaf pan, start checking for doneness five minutes earlier than advised in the recipe. The texture is best when the loaf is eaten fresh, but it can be stored (cool completely first), covered tightly with plastic wrap, for up to 3 days.
+
+\ingredient [1 fr34]{cups}{unbleached AP flour}
+\ingredient [1]{tsp}{baking soda}
+\ingredient [1]{fr12}{table salt}
+\ingredient [6]{large}{very ripe banana}
+\ingredient [8]{T}{unsalted butter, melted and cooled slightly}
+\ingredient [2]{large}{eggs}
+\ingredient [fr34]{cup}{packed light brown sugar}
+\ingredient [1]{tsp}{vanilla extract}
+\ingredient [fr12]{cup}{toasted and coarsely chopped walnuts}
+\ingredient [2]{tsp}{granulated sugar}
+
+1. Adjust oven rack to middle position and heat oven to 350 degrees. Spray 8½ by 4½-inch loaf pan with nonstick cooking spray. Whisk flour, baking soda, and salt together in large bowl.
+
+2. Place 5 bananas in microwave-safe bowl; cover with plastic wrap and cut several steam vents in plastic with paring knife. Microwave on high power until bananas are soft and have released liquid, about 5 minutes. Transfer bananas to fine-mesh strainer placed over medium bowl and allow to drain, stirring occasionally, 15 minutes (you should have ½ to ¾ cup liquid).
+
+3. Transfer liquid to medium saucepan and cook over medium-high heat until reduced to ¼ cup, about 5 minutes. Remove pan from heat, stir reduced liquid into bananas, and mash with potato masher until fairly smooth. Whisk in butter, eggs, brown sugar, and vanilla.
+
+4. Pour banana mixture into flour mixture and stir until just combined with some streaks of flour remaining. Gently fold in walnuts, if using. Scrape batter into prepared pan. Slice remaining banana diagonally into ¼-inch-thick slices. Shingle banana slices on top of either side of loaf, leaving 1½-inch-wide space down center to ensure even rise. Sprinkle granulated sugar evenly over loaf.
+
+5. Bake until toothpick inserted in center of loaf comes out clean, 55 to 75 minutes. Cool bread in pan on wire rack 15 minutes, then remove loaf from pan and continue to cool on wire rack. Serve warm or at room temperature.
+
+\end {recipe}
