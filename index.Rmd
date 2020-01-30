@@ -28,7 +28,7 @@ You can contribute a recipe by following the instructions on the [GitHub reposit
  - Jonathan Emery: [jonathan.emery@northwestern.edu](mailto:jonathan.emery@northwestern.edu)
  - Chris diaz: [chris-diaz@northwestern.edu](mailto:chris-diaz@northwestern.edu)
 
-## Contributors
+## Contributors {-}
  - Anna Luce
  - Jonathan Diel
  - Shelby Hatch
