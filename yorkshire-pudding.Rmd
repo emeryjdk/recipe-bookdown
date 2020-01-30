@@ -12,8 +12,8 @@
 
 Heat the milk and butter until nearly boiling. Add flour and allow to seeth over.
 
-\ingredients[3]{}{eggs}
-\ingredients{to taste}{salt and pepper}
+\ingredient[3]{}{eggs}
+\ingredient{to taste}{salt and pepper}
 
 Add the remaining eggs and whisk again. Cooks at 220\0C for about 1 hour.
 
