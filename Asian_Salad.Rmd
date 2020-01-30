@@ -1,0 +1,30 @@
+<!-- Type:Salad -->
+<!-- Cook:Lesann847 -->
+
+# Asian Salad
+
+\begin {recipe} {Asian Salad} {8} {25 minutes}
+\freeform Chop and mix together
+\ingredient {2} {heads} {Nappa Cabbage}
+\ingredient {2} {bunches} {Green Onions}
+\freeform Chill in refrigerator.
+
+\freeform In a large skillet, mix the following
+\ingredient {1} {stick} {Butter}
+\ingredient {1} {ounce} {Sesame Seeds}
+\ingredient {2.25} {ounces} {Sliced Almonds}
+\ingredient {2} {packages} {Ramen Noodles, crushed}
+\ingredient {2} {flavor packets} {from Ramen Noodles}
+\freeform Fry until brown, then cool in closed container in refrigerator.
+
+\freeform In a small saucepan, add the following
+\ingredient {fr\ 14} {cup} {Vinegar}
+\ingredient {fr\ 12} {cup} {Sugar}
+\ingredient {fr\ 34} {cup} {Oil}
+\ingredient {2} {tablespoons} {Soy Sauce}
+\freeform Boil for one minute. Cool and store in refrigerator.
+
+\freeform When ready to serve, mix everything together in a large bowl.  Do NOT mix ahead of time, or the ramen noodles get soggy.  This salad does not store well.
+
+\end {recipe}
+
