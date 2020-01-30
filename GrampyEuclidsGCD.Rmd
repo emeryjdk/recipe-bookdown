@@ -1,11 +1,14 @@
 # Greatest common divisor of $a$ and $b$, $a\leq b$
 
-1 portion, Approximately $\log a$
+**Ingredients** Two positive integers $a$ and $b$, $a\leq b$. 
 
-From Grampy Euclid's cookbook.
+**Cooking Time** Approximately $\log a$ steps.
 
-Positive integers $a, b$ with $a\leq b$
+**Attribution** From Grampy Euclid's cookbook.
+
+**Recipe**
 - Write $b=aq+r$ with $0\leq r<a$.
 - If $r=0$, $a$ is $\gcd(a,b)$.
 - Otherwise, discard $b$, rename $a$ as $b$, rename $r$ as $a$ and return to Step 1.
-Guten Appetit!
+
+Guten Apetit!
