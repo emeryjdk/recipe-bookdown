@@ -1,0 +1,19 @@
+# Yorkshire Pudding
+
+\begin{recipe}{Yorshire Pudding}{4 portions}{1\fr12 hours}
+
+\freeform This recipe was taken from the cuisine package examples of Ben Cohen.
+
+\ingredient[\fr12]{pt}{milk}
+\ingredient[2]{oz}{butter}
+\ingredient[5]{oz}{self-raising flour}
+
+Heat the milk and butter until nearly boiling. Add flour and allow to seeth over.
+
+\ingredient[3]{}{eggs}
+\ingredient{to taste}{salt and pepper}
+
+Add the remaining eggs and whisk again. Cook at 200\0C for about 1 hour.
+
+
+\end{recipe}
