@@ -1,8 +1,5 @@
-<!-- Type:Pasta -->
-<!-- Cook:JEmery -->
-
 # Farmers Market Pasta
-
+_from Jonathan Emery_
 \begin{recipe}[FarmersMarketPasta]{Farmers' Market Pasta}{6 Portions}{30 min}
 \freeform Grab some stuff from the farmers' market and make this pasta. Eat it hot or cold.
 \freeform\rule{\textwidth}{0.05pt}
@@ -45,3 +42,5 @@ Top with parmesan cheese and serve warm or cold.
 \end{recipe}
 
 %From RealSimple
+<!-- Type:Pasta -->
+<!-- Cook:JEmery -->

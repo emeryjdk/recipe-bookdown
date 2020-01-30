@@ -1,8 +1,5 @@
-<!-- Type:Soup -->
-<!-- Cook:JEmery -->
-
 # Creamy Turkey Noodle Soup
-
+_from Jonathan Emery_
 \begin{recipe}{Creamy Turkey Noodle Soup}{6 Servings}{30 minutes} %{Title}{Servings}{Prep time}
 \freeform A soup that Mimi makes after Thanksgiving.       %Freeform formats a general comment.
 \freeform\rule{\textwidth}{0.05pt}                         %Creates a nice horizontal rule.
@@ -34,7 +31,7 @@ Saut\'{e} ingredients in butter for 5 minutes.
 First stir in flour to saut\'{e}d vegetebles and then add liquids and bring mixture to a boil.
 
 %4th step ingredients--------------------------------------
-\ingredient[6]{oz}{Reames brand noodles} 
+\ingredient[6]{oz}{Reames brand noodles}
 
 %4th step action:
 Add dry noodles to soup and simmer for about 20 minutes.
@@ -47,8 +44,10 @@ Cook orzo according to directions on package --- slightly al dente is fine as we
 
 Add salt and pepper to taste.
 
-\freeform\rule{\textwidth}{0.05pt} 
+\freeform\rule{\textwidth}{0.05pt}
 
 \freeform Good to eat for... weeks?
 
 \end{recipe}
+<!-- Type:Soup -->
+<!-- Cook:JEmery -->

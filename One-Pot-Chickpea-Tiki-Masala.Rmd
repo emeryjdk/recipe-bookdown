@@ -1,0 +1,35 @@
+# One-Pot Chickpea Tiki Masala
+_From Jonathan Diel_
+\begin{recipe}{One-Pot Chickpea Tiki Masala}{4}{40 minute}
+
+\freeform This recipe is one of my go to when I want Idian food pretty quickly. It's very easy to make espicially if using canned beans and tomatoes. Original recipe from https://www.makingthymeforhealth.com/one-pot-chickpea-tiki-masala/
+
+\ingredient[2]{Tbsp}{extra virgin olive oil}
+\ingredient[1]{medium}{onion, diced}
+\ingredient[1]{tsp}{sea salt}
+\ingredient[2]{}{jalepeños, cored and finely chopped}
+\ingredient[4]{in}{fresh ginger, minced (approx. 4 Tbsp}
+\ingredient[6]{}{garlic cloves, minced, approx 3 Tbsp}
+\ingredient[1]{tsp}{garam masala}
+\ingredient[1]{tsp}{ground cumin}
+\ingredient[1]{tsp}{curry powder}
+\ingredient[fr 12]{tsp}{smoked paprika}
+\ingredient[3]{Tbps}{tomato paste}
+\ingredient[2]{}{(15-oz) cans diced fire roasted tomatoes}
+\ingredient[1]{c}{vegetable broth}
+\ingredient[1]{}{(15-oz) can chickpeas, drained and rinsed}
+\ingredient[1]{c}{unsweetened cocounut milk}
+\ingredient[4]{c}{cooked brown rice or naan for serving}
+
+Instructions:
+In a large pot, warm the oil over medium heat. Add the onion and the salt, stir and cook for 3 minutes. Add the jalapeño, ginger, and garlic then cook for 2 minutes. Lastly, add the spices (garam masala, cumin, curry, paprika, cayenne) and the tomato paste then stir together and cook for 2 more minutes.
+
+Pour the cans of diced tomatoes with their juices and 1 cup vegetable broth into the pot. Bring to a boil and cook for 10 minutes, stirring intermittently.
+
+Reduce heat to a simmer then stir in the coconut milk and chickpeas. Cook until heated through. Serve warm with brown basmati rice, fresh cilantro, plain yogurt and naan. Leftovers can be stored in an airtight container in the refrigerator for up to 3 days.
+
+\freeform I've tried making this recipe in a hot pot with mixed results. I think it still works better on the stove. Even still, the recipe is very easy to make despite the long list of ingredients.
+
+\end{recipe}
+<!-- Type:Entree -->
+<!-- Cook:JonathanD -->

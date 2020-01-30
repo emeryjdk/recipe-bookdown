@@ -3,7 +3,7 @@ name: Book Builder
 on:
   push:
     branches: 
-      - publish
+      - master
 
 jobs:
   build:

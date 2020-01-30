@@ -1,8 +1,5 @@
-<!-- Type:Side -->
-<!-- Cook:CDiaz -->
-
 # Buffalo Cauliflower
-
+_from Chris Diaz_
 \begin{recipe}{Buffalo Cauliflower}{4 servings}{55 minutes}
 \freeform Preheat oven to 450 degrees F.  Line baking sheet with parchment paper or foil.
 \ingredient[2]{}{heads of cauliflower}
@@ -26,3 +23,5 @@ Melt butter in saucepan over medium heat, remove from heat and add pepper sauce 
 \freeform Allow cauliflower to cool before serving, about 10 minutes.
 
 \end{recipe}
+<!-- Type:Side -->
+<!-- Cook:CDiaz -->

@@ -1,0 +1,37 @@
+# Gateau Basque
+_from Matthew Tayler_
+\begin{recipe}{Gateau Basque}{8}{2 hours}
+\freeform This delicious almond flour, pastry cream cake is adapted from the recipe of Basque-native Gerald Hirigoyenis, owner of the restaurants Fringale and Pastis in San Francisco.
+
+\ingredient[2]{qty.}{egg yolks}
+\ingredient[\fr{1}{4}]{cup}{sugar}
+\ingredient[3]{tbsp}{flour}
+\ingredient[1 \fr{1}{4}]{cups}{milk}
+\ingredient[1]{bean}{vanilla}
+
+For the pastry cream, split vanilla bean length-wise. Begin warming milk and vanilla bean in saucepan over low heat to later bring to a boil.
+In the bowl of a stand mixer, beat egg yolks and sugar together until frothing. Continue mixing, slowly add in flower and mix until combined. Remove bowl from mixer and set convenient to warming milk. Bring milk to boil and remove vanilla bean. Immediately upon boiling, remove from heat and begin pouring half the milk into the flour, egg, and sugar mixture. Blend with a whisk. Bring the remaining milk to a boil. Immediately upon boiling,  to whisk in the contents of the mixing bowl into the saucepan, and continue stirring over heat for 1 minute. Remove from heat and allow to begin cooling.   
+
+\ingredient[8]{tbsp.}{unsalted butter}
+\ingredient[1]{cup}{sugar}
+\ingredient[2]{qty.}{egg yolks}
+\ingredient[1]{tbsp.}{rum}
+\ingredient[2]{tsp.}{almond extract}
+\ingredient[2]{tsp.}{vanilla extract}
+\ingredient[2]{tsp.}{Pastis liqueur, e.g. Pernod}
+\ingredient{pinch}{salt}
+\ingredient[1 \fr{1}{2}]{cups}{flour}
+\ingredient[\fr{1}{3}]{cup}{ground almonds (in coffee grinder, e.g.)}
+\ingredient[1]{tsp.}{baking powder}
+\ingredient[1]{qty.}{egg, beaten}
+
+In stand mixer with the paddle attachment, beat the butter and sugar together until well creamed. Add the egg yolks one at a time, and continue beating well after each addition. Add rum, almond extract, pastis, vanilla extract, and salt. Add dry ingredients: flour, almond powder, and baking powder. Ingredients should mix on on low speed to form a dough. Remove bowl from mixer and orm the dough into 2 even balls, cover with plastic wrap, and refrigerate for 1 hour or more.\par
+Later, preheat the oven to 350 degrees F. Butter and dust a 9-inch round cake pan with flour. On a flour-dusted work surface, roll balls of dough into 9-inch and 11-inch circles. Take the 11-inch circle, and transfer to the cake pan, and gently press the dough down into the sides of the pan. Take pastry cream prepared in step 1 and spread in an even layer on top of first layer of pastry dough.\par
+Drape 9-inch circle over the cake pan, on top of the pastry cream, to form the top layer of the cake. Firmly seal in the filling by pinching the edges together and then trim off any uneven edges. Brush the top of the cake with a beaten egg.\par
+Bake until golden brown, 40 to 45 minutes. Set aside to cool for 10 minutes before inverting onto a cooling rack. Turn the cake right side up and let it cool completely.
+
+\freeform Transfer to a serving plate, and serve at room temperature.
+\end{recipe}
+
+<!-- Type:Dessert -->
+<!-- Cook:Matthew Taylor adapted from Gerald Hirigoyen -->

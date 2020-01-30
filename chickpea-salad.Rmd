@@ -1,0 +1,29 @@
+# Chickpea Salad
+_from Lauren McKeen_
+\begin{recipe}{Chickpea Salad}{6}{30 hr}
+\freeform This recipe is easy and delicious!
+\ingredient[\fr12]{cups}{uncooked quinoa}
+Boil the quinoa according to package directions.
+
+\ingredient[2]{TBSP}{lemon juice}
+\ingredient[1]{}{avocado}
+Dice the avocado and put it in a large bowl with the lemon juice.
+
+\ingredient[1]{}{cucumber}
+\ingredient[2]{}{green onions}
+\ingredient[1]{}{roma tomato}
+\ingredient[1]{}{carrot}
+\ingredient[1]{}{red bell pepper}
+Chop the vegetables and add them into the bowl.
+
+\ingredient[1]{can}{chickpeas}
+Drain and rinse the chickpeas and put them in the bowl.
+
+\ingredient[1]{TBSP}{olive oil}
+\ingredient[2]{TBSP}{red wine vinegar}
+\ingredient[1]{TBSP}{ground cumin}
+\ingredient[]{}{salt and pepper to taste}
+Mix olive oil, vinegar, and cumin together and put it in the bowl. Mix all the ingredients together thoroughly. Enjoy with friends.
+\end{recipe}
+<!-- Type:Salad -->
+<!-- Cook:Lauren -->

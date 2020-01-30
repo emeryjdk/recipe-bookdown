@@ -1,6 +1,6 @@
 ---
 title: "Food I Can Make in Less Than an Hour"
-author: "Jonathan Emery"
+author: "Jonathan Emery, et al."
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
@@ -27,3 +27,24 @@ You can contribute a recipe by following the instructions on the [GitHub reposit
 
  - Jonathan Emery: [jonathan.emery@northwestern.edu](mailto:jonathan.emery@northwestern.edu)
  - Chris diaz: [chris-diaz@northwestern.edu](mailto:chris-diaz@northwestern.edu)
+
+## Contributors {-}
+ - Anna Luce
+ - Jonathan Diel
+ - Shelby Hatch
+ - Kate Flom Derrick
+ - Lauren Woods
+ - Victoria Getis
+ - Jill Wilson
+ - Leslie Fischer
+ - Borchuluun Yadamsuren
+ - Cecile Sison
+ - Matthew Tayler
+ - Becca Greenstein
+ - Chris Diaz
+ - Lauren McKeen
+ - Patrick Fise
+ - Rohit Ramanathan
+ - Shelby Hatch
+ - Pat Fise
+ - Aaron Grecius

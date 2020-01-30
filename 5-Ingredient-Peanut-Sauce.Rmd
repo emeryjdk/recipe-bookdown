@@ -1,0 +1,22 @@
+# 5 Ingredient Peanut Sauce
+_from Becca Greenstein_
+\begin{recipe}{5 Ingredient Peanut Sauce}{5 servings}{5 minutes}
+\ingredient[\fr12]{cups}{salted peanut butter (or almond butter, or sunflower butter)}
+\ingredient[2-3]{Tbsp}{gluten free tamari (or soy sauce, or coconut aminos)}
+\ingredient[1-2]{Tbsp}{maple syrup (or another sweetener of choice)}
+\ingredient[1]{tsp}{chili garlic sauce(or 1 Thai red chili, minced, or \fr14 tsp red pepper flake}
+\ingredient[2-3]{Tbsp}{lime juice}
+
+To a medium mixing bowl add (starting with the amount at the lower end of the measurement range where applicable) peanut butter, tamari, maple syrup, lime juice, chili sauce, and whisk to combine.
+
+\ingredient[\fr14]{cups}{water}
+
+Add water a little at a time until a thick but pourable sauce is achieved.
+
+\newstep Taste and adjust seasonings as needed (i.e. maple syrup for sweetness, chili garlic sauce for heat). If too thin, add more nut butter. If too thick, add momre water.
+\newstep Serve over pad thai, spring rolls, stir fry, etc.
+
+\end{recipe}
+
+<!-- Type: Sauce -->
+<!-- Cook: rlgreenst -->

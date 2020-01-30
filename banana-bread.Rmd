@@ -1,8 +1,5 @@
-<!-- Type:Bread -->
-<!-- Cook:JEmery -->
-
 # Banana Bread
-
+_from Jonathan Emery_
 \begin{recipe}[BananaBread]{J. Wolff Banana Bread}{1 loaf}{90 min (30 min prep, 60 min bake)}
 \freeform This recipe makes one loaf of banana bread. Bake it in a J. Wolff bread baker --- although other stone breadpans should work, presumably.
 \freeform\rule{\textwidth}{0.05pt}
@@ -41,3 +38,5 @@ Grease stoneware baker and pour in batter. Cook for 60-70 min (check frequently)
 \end{recipe}
 
 <!-- From Jason Wolff Stoneware -->
+<!-- Type:Bread -->
+<!-- Cook:JEmery -->
