@@ -1,0 +1,27 @@
+<!-- Type:Dessert --> 
+<!-- Cook: KateFlomDerrick --> 
+
+# 5 Layer Pie 
+
+\begin{recipe}{5 Layer Pie}{8}{2.5 hours}
+\freeform Preheat oven to 325 degrees
+\ingredient[1]{cup}{flour}
+\ingredient[1]{stick}{butter}
+\ingredient[\fr12]{cup}{chopped pecans}
+First Layer: Mix butter with flour with fork; press down into baking dish. Make crust, then sprinkle pecans on top of crust. Bake for 20-25 minutes.
+
+\ingredient[1]{cup}{sugar}
+\ingredient[8]{ounces}{soft cream cheese}
+\ingredient[1]{cup}{Cool Whip}
+Second Layer: Mix sugar and cream cheese until smooth, then add Cool Whip. Put mixture on top of crust.
+
+\ingredient[1]{package}{chocolate instant pudding}
+Third Layer: Make instant pudding as direct on package. Spread on top of second layer. 
+
+\ingredient[1]{cup}{Cool Whip}
+Fourth Layer: spread Cool Whip on top of third layer. Chill for 2 hours. 
+
+\ingredient[\fr12]{cup}{coconut shavings}
+Fifth Layer: sprinkle coconut shavings on top of fourth layer. Serve! 
+
+\end{recipe}
