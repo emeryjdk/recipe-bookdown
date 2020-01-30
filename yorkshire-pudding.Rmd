@@ -1,3 +1,5 @@
+# Yorkshire Pudding
+
 \begin{recipe}{Yorshire Pudding}{4 portions}{1\fr12 hours}
 
 \freeform This recipe was taken from the cuisine package examples of Ben Cohen.
