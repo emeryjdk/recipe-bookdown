@@ -1,13 +1,10 @@
 <!-- Type:Dessert -->
 <!-- Cook:AnnaLuce -->
 
+# Anna’s Banana Bread (from ATK)
 
 \begin {recipe}{Anna’s Banana Bread (from ATK)}{10}{2?}
-
-
-\freeform 
-Be sure to use very ripe, heavily speckled (or even black) bananas in this recipe. This recipe can be made using 5 thawed frozen bananas; since they release a lot of liquid naturally, they can bypass the microwaving in step 2 and go directly into the fine-mesh strainer. Do not use a thawed frozen banana in step 4; it will be too soft to slice. Instead, simply sprinkle the top of the loaf with sugar. The test kitchen’s preferred loaf pan measures 8½ by 4½ inches; if you use a 9 by 5-inch loaf pan, start checking for doneness five minutes earlier than advised in the recipe. The texture is best when the loaf is eaten fresh, but it can be stored (cool completely first), covered tightly with plastic wrap, for up to 3 days.
-\freeform
+\freeform Be sure to use very ripe, heavily speckled (or even black) bananas in this recipe. This recipe can be made using 5 thawed frozen bananas; since they release a lot of liquid naturally, they can bypass the microwaving in step 2 and go directly into the fine-mesh strainer. Do not use a thawed frozen banana in step 4; it will be too soft to slice. Instead, simply sprinkle the top of the loaf with sugar. The test kitchen’s preferred loaf pan measures 8½ by 4½ inches; if you use a 9 by 5-inch loaf pan, start checking for doneness five minutes earlier than advised in the recipe. The texture is best when the loaf is eaten fresh, but it can be stored (cool completely first), covered tightly with plastic wrap, for up to 3 days.
 
 \ingredient [1 fr34]{cups}{unbleached AP flour}
 \ingredient [1]{tsp}{baking soda}
