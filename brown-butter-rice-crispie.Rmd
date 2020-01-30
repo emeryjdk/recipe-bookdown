@@ -1,0 +1,26 @@
+<! -- Type:Dessert -->
+<! -- Cook:Cecile -->
+
+# Brown Butter Rice Crispies Treats
+
+\begin{recipe}[BrownButterRiceCrispieTreats]{Brown Butter Rice Crispies Treats}{12 Portions}{15 minutes}
+\freeform Adapted from:https://smittenkitchen.com/2009/11/salted-brown-butter-crispy-treats/
+\freefrom Grease an 8x8 pan, set aside
+\freeform\rule{\textwidth}{0.05pt}
+
+\Ingredient[6]{cup}{Rice Crispies (or generic puffed rice cereal)}
+\Ingredient[6]{pinch}{Gourmet Kosher Sea Salt (preferably Redmond Real Salt, pink and coarse)}
+Mix together in large bowl with your (cleaned hands) and set aside.
+
+\Ingredient[1]{stick}{Unsalted Butter}
+On medium low heat, in a 1 4quart or higher pot (I suggest one that has white enamel so you can see when the butter has browned), melt butter while watching carefully. It will melt, then foam, then turn clear golden and finally start to turn brown and smell nutty. Stir frequently with a wooden spoon, scraping the bottom of the pot to make sure nothing sticks (the brown flecks). Don't be impatient and keep watching because there is a smal window from when the butter browns and when it starts to burn. 
+
+\Ingredient[10.5]{oz}{Mini Marshmallows}
+When there is a good amount of brown flecks, turn the oven to its lowest setting and pour in marshmallows. Immediately start stirring until the marshmallow mixture doesn't look lumpy.
+Add crispie/salt mixture into the marshmallow/butter mixture in the pot and begin incorporating (you can turn off the heat at this point if you want but it doesn't usually take more than 30 seconds to blend the crispies with the melted marshmallows).
+Once blended, pour the mixture into your greased pan. 
+
+\freeform Optional: sprinkle more salt on top
+\freeform Let cool/set for at least a half an hour, cut into squares whenever you serve them.
+
+\end{recipe}
