@@ -1,5 +1,5 @@
-<!-- Type: Entree -->
-<!-- Cook: Jonathan D. -->
+<!-- Type:Entree -->
+<!-- Cook:JonathanD -->
 
 # One-Pot Chickpea Tiki Masala
 
