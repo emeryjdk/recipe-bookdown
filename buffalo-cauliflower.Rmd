@@ -1,0 +1,28 @@
+<!-- Type:Side -->
+<!-- Cook:CDiaz -->
+
+# Buffalo Cauliflower
+
+\begin{recipe}{Buffalo Cauliflower}{4 servings}{55 minutes}
+\freeform Preheat oven to 450 degrees F.  Line baking sheet with parchment paper or foil.
+\ingredient[2]{}{heads of cauliflower}
+
+Remove stem and leaves, cut into bite-sized pieces
+
+\ingredient[\fr34]{cup}{baking flour}
+\ingredient[1]{cup}{water}
+\ingredient[\fr12]{tsp}{garlic powder}
+\ingredient[\fr12]{tsp}{salt}
+\ingredient[\fr14]{tsp}{ground black pepper}
+
+Whisk until batter is smooth, toss with cauliflower, bake for 20 to 25 minutes (until lightly browned)
+
+\ingredient[2]{tbsp}{butter}
+\ingredient[\fr12]{cup}{Frank's RedHot pepper sauce}
+\ingredient[1]{tsp}{honey}
+
+Melt butter in saucepan over medium heat, remove from heat and add pepper sauce and honey. Toss with lightly browned cauliflower. Return cauliflower to oven and bake an additional 10 minutes.
+
+\freeform Allow cauliflower to cool before serving, about 10 minutes.
+
+\end{recipe}
