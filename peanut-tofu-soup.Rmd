@@ -1,0 +1,31 @@
+<!-- Type:Soup -->
+<!-- Cook:RRamanathan -->
+
+# Peanut Tofu Soup Adapted from Rev Soup in Charlottesville, VA
+
+\begin{recipe}{Spicy Peanut Tofu Soup}{6-8 Servings}{1.5 Hours}
+
+\freeform This is an adaptation spicy peanut tofu soup served at Revolutionary Soup in Charlottesville, Va.
+\ingredient[2]{}{Large Onions, diced}
+\ingredient[3]{}{Large Carrots, diced}
+\ingredient[2]{}{Medium Jalapenos, seeds removed if desired, and diced}
+\ingredient[2]{inches}{ginger, minced}
+\ingredient[4]{cloves}{garlic, minced}
+\ingredient[2]{bbsp}{Curry Powder, plus more to taste}
+\ingredient[14]{oz}{canned diced tomatoes, do not drain}
+\ingredient[14]{oz}{canned crushed tomatoes}
+\ingredient[1][can]{coconut milk}
+\ingredient[1]{cup}{smooth peanut butter, plus more to taste}
+\ingredient[1]{package}{firm tofu, drained and pressed to remove moisture, and cut into cubes.}
+\ingredient[to taste]{salt}
+
+1. In a large pot or dutch oven, sautee the onions and carrots together in about 1 tbsp oil until they are soft. Season with salt to taste and add curry powder.
+2. Using a small blender or mortal and pestle, combine the jalapenos, ginger, and garlic together with a pinch of salt until a coarse paste forms.
+3. Add this paste to the pot with the carrots and onions and continue cooking until fragrant.
+4. Add diced tomatoes, crushed tomatoes, coconut milk, and peanut butter.  Bring to a boil and reduce to a simmer, stirring to ensure that the peanut butter is completely incorporated.
+5. Once the peanut butter is fully incorporated, remove from heat and blend using an immersion blender until smooth.
+6. Taste the resulting soup and adjust salt, curry powder, and peanut butter as needed. The soup should be spicy, but not overwhelmingly so, and you should be able to taste the peanut but it should not be sweet.
+7. Add tofu to the pot and stir. Bring the soup back to a simmer and cook tofu for 5-10 minutes.
+8. Serve immediately with a crusty bread for dipping.
+
+\end{recipe}
