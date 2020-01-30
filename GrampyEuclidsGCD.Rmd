@@ -11,4 +11,4 @@ _from Aaron Grecius_
 - If $r=0$, $a$ is $\gcd(a,b)$.
 - Otherwise, discard $b$, rename $a$ as $b$, rename $r$ as $a$ and return to Step 1.
 
-Guten Apetit!
+Guten Appetit!
