@@ -1,0 +1,18 @@
+<!-- Type:Sauce -->
+<!-- Cook:PFise -->
+
+# Fish Curry Sauce
+
+\begin{recipe}{Fish Curry Sauce}{4}{15 minutes}
+\freeform This is a good recipe for adding some flavor to your favorite fish
+\ingredient[1]{}{Shallot}
+\ingredient[1]{cup}{coconut milk}
+\ingredient[2]{tablespoons}{oil}
+\ingredient[1.5]{cups}{coconut milk}
+
+Finely dice and saute shallots in the oil. Add curry paste and coconut milk. Bring to a simmer. Add in salt and any desired seasonings to taste.
+
+Add in the fish and cook for 5-7 minutes until the fish is flakey.
+
+\freeform Garnish with cilantro and serve with white wine.
+\end{recipe}
