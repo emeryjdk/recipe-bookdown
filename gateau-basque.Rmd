@@ -1,8 +1,5 @@
-<!-- Type:Dessert -->
-<!-- Cook:Matthew Taylor adapted from Gerald Hirigoyen -->
-
 # Gateau Basque
-
+_from Matthew Tayler_
 \begin{recipe}{Gateau Basque}{8}{2 hours}
 \freeform This delicious almond flour, pastry cream cake is adapted from the recipe of Basque-native Gerald Hirigoyenis, owner of the restaurants Fringale and Pastis in San Francisco.
 
@@ -12,7 +9,7 @@
 \ingredient[1 \fr{1}{4}]{cups}{milk}
 \ingredient[1]{bean}{vanilla}
 
-For the pastry cream, split vanilla bean length-wise. Begin warming milk and vanilla bean in saucepan over low heat to later bring to a boil. 
+For the pastry cream, split vanilla bean length-wise. Begin warming milk and vanilla bean in saucepan over low heat to later bring to a boil.
 In the bowl of a stand mixer, beat egg yolks and sugar together until frothing. Continue mixing, slowly add in flower and mix until combined. Remove bowl from mixer and set convenient to warming milk. Bring milk to boil and remove vanilla bean. Immediately upon boiling, remove from heat and begin pouring half the milk into the flour, egg, and sugar mixture. Blend with a whisk. Bring the remaining milk to a boil. Immediately upon boiling,  to whisk in the contents of the mixing bowl into the saucepan, and continue stirring over heat for 1 minute. Remove from heat and allow to begin cooling.   
 
 \ingredient[8]{tbsp.}{unsalted butter}
@@ -36,3 +33,5 @@ Bake until golden brown, 40 to 45 minutes. Set aside to cool for 10 minutes befo
 \freeform Transfer to a serving plate, and serve at room temperature.
 \end{recipe}
 
+<!-- Type:Dessert -->
+<!-- Cook:Matthew Taylor adapted from Gerald Hirigoyen -->

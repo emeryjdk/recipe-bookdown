@@ -1,10 +1,6 @@
-<!-- Type: Mac and Cheese --> <br>
-<!-- Cook:Trish -->
-
 # Homemade Baked Mac and Cheese
-
+_from Borchuluun Yadamsuren_
 \begin{recipe}{Homemade Baked Mac and Cheese}{12 servings}{20 min}
-
 \freeform
 Instructions
 
@@ -34,3 +30,5 @@ salt and pepper to taste
 
 \freeform Add final notes, such as serving suggestions.
 \end{recipe}
+<!-- Type: Mac and Cheese --> <br>
+<!-- Cook:Trish -->

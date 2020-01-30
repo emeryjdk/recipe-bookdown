@@ -1,8 +1,5 @@
-<!-- Type:Dessert --> 
-<!-- Cook: KateFlomDerrick --> 
-
-# 5 Layer Pie 
-
+# 5 Layer Pie
+_from Kate Flom Derrick_
 \begin{recipe}{5 Layer Pie}{8}{2.5 hours}
 \freeform Preheat oven to 325 degrees
 \ingredient[1]{cup}{flour}
@@ -16,12 +13,15 @@ First Layer: Mix butter with flour with fork; press down into baking dish. Make 
 Second Layer: Mix sugar and cream cheese until smooth, then add Cool Whip. Put mixture on top of crust.
 
 \ingredient[1]{package}{chocolate instant pudding}
-Third Layer: Make instant pudding as direct on package. Spread on top of second layer. 
+Third Layer: Make instant pudding as direct on package. Spread on top of second layer.
 
 \ingredient[1]{cup}{Cool Whip}
-Fourth Layer: spread Cool Whip on top of third layer. Chill for 2 hours. 
+Fourth Layer: spread Cool Whip on top of third layer. Chill for 2 hours.
 
 \ingredient[\fr12]{cup}{coconut shavings}
-Fifth Layer: sprinkle coconut shavings on top of fourth layer. Serve! 
+Fifth Layer: sprinkle coconut shavings on top of fourth layer. Serve!
 
 \end{recipe}
+
+<!-- Type:Dessert -->
+<!-- Cook: KateFlomDerrick --> 

@@ -1,6 +1,5 @@
 # Cranberry Clafoutis
-<!-- Type: Dessert -->
-<!-- Cook: Mark Bitman in the New York Times -->
+_from Victoria Getis_
 \begin{recipe}{Cranberry Clafoutis}{}{1 hr}
 \freeform Heat the oven to 425 degrees. Butter a deep 9 or 10-inch pie plate. Sprinkle it with a tablespoon or so of sugar, then swirl dish to coat evenly. Invert to remove excess.
 \ingredient[1]{tablespoon}{butter, for greasing pan}
@@ -19,3 +18,5 @@
 
 
 \end{recipe}
+<!-- Type: Dessert -->
+<!-- Cook: Mark Bitman in the New York Times -->

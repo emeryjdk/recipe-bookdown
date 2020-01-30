@@ -1,5 +1,5 @@
-# Moroccan Lamb (or Turkey) Stew 
-
+# Moroccan Lamb (or Turkey) Stew
+_From Jonathan Emery_
 \begin{recipe}[MoroccanStew]{Moroccan Lamb (or Turkey) Stew}{4 Portions}{1 hour}
 \freeform One of my absolute favorite meals.
 \freeform\rule{\textwidth}{0.05pt}

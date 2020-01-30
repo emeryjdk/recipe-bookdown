@@ -1,8 +1,5 @@
-<!-- Type: Sauce -->
-<!-- Cook: rlgreenst -->
-
 # 5 Ingredient Peanut Sauce
-
+_from Becca Greenstein_
 \begin{recipe}{5 Ingredient Peanut Sauce}{5 servings}{5 minutes}
 \ingredient[\fr12]{cups}{salted peanut butter (or almond butter, or sunflower butter)}
 \ingredient[2-3]{Tbsp}{gluten free tamari (or soy sauce, or coconut aminos)}
@@ -20,3 +17,6 @@ Add water a little at a time until a thick but pourable sauce is achieved.
 \newstep Serve over pad thai, spring rolls, stir fry, etc.
 
 \end{recipe}
+
+<!-- Type: Sauce -->
+<!-- Cook: rlgreenst -->

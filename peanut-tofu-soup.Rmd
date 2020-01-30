@@ -1,10 +1,6 @@
-<!-- Type:Soup -->
-<!-- Cook:RRamanathan -->
-
-# Peanut Tofu Soup Adapted from Rev Soup in Charlottesville, VA
-
+# Peanut Tofu Soup
+_from Rohit Ramanathan, Adapted from Rev Soup in Charlottesville, VA_
 \begin{recipe}{Spicy Peanut Tofu Soup}{6-8 Servings}{1.5 Hours}
-
 \freeform This is an adaptation spicy peanut tofu soup served at Revolutionary Soup in Charlottesville, Va.
 \ingredient[2]{}{Large Onions, diced}
 \ingredient[3]{}{Large Carrots, diced}
@@ -29,3 +25,5 @@
 8. Serve immediately with a crusty bread for dipping.
 
 \end{recipe}
+<!-- Type:Soup -->
+<!-- Cook:RRamanathan -->

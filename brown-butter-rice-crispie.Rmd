@@ -1,8 +1,5 @@
-<! -- Type:Dessert -->
-<! -- Cook:Cecile -->
-
 # Brown Butter Rice Crispies Treats
-
+_from Cecile Sison_
 \begin{recipe}[BrownButterRiceCrispieTreats]{Brown Butter Rice Crispies Treats}{12 Portions}{15 minutes}
 \freeform Adapted from: https://smittenkitchen.com/2009/11/salted-brown-butter-crispy-treats
 \freeform Grease an 8x8 pan, set aside
@@ -24,3 +21,5 @@ Once blended, pour the mixture into your greased pan.
 \freeform Let cool/set for at least a half an hour, cut into squares whenever you serve them.
 
 \end{recipe}
+<! -- Type:Dessert -->
+<! -- Cook:Cecile -->

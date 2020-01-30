@@ -1,8 +1,5 @@
-<!-- Type:Salad -->
-<!-- Cook:JEmery -->
-
 # Orzo Salad
-
+_from Jonathan Emery_
 \begin{recipe}{Spinach Orzo Salad}{20 Portions}{30 minutes}
 \freeform Good to share as a holiday salad!
 \freeform\rule{\textwidth}{0.05pt}
@@ -35,3 +32,5 @@ Toss in sunflower seeds prior to serving.
 %\freeform\rule{\textwidth}{0.05pt}
 %Serve with couscous or some grain and fresh bread.
 \end{recipe}
+<!-- Type:Salad -->
+<!-- Cook:JEmery -->

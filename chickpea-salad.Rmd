@@ -1,7 +1,5 @@
-<!-- Type:Salad -->
-<!-- Cook:Lauren -->
 # Chickpea Salad
-
+_from Lauren McKeen_
 \begin{recipe}{Chickpea Salad}{6}{30 hr}
 \freeform This recipe is easy and delicious!
 \ingredient[\fr12]{cups}{uncooked quinoa}
@@ -27,3 +25,5 @@ Drain and rinse the chickpeas and put them in the bowl.
 \ingredient[]{}{salt and pepper to taste}
 Mix olive oil, vinegar, and cumin together and put it in the bowl. Mix all the ingredients together thoroughly. Enjoy with friends.
 \end{recipe}
+<!-- Type:Salad -->
+<!-- Cook:Lauren -->

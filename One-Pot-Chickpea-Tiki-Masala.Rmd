@@ -1,8 +1,5 @@
-<!-- Type:Entree -->
-<!-- Cook:JonathanD -->
-
 # One-Pot Chickpea Tiki Masala
-
+_From Jonathan Diel_
 \begin{recipe}{One-Pot Chickpea Tiki Masala}{4}{40 minute}
 
 \freeform This recipe is one of my go to when I want Idian food pretty quickly. It's very easy to make espicially if using canned beans and tomatoes. Original recipe from https://www.makingthymeforhealth.com/one-pot-chickpea-tiki-masala/
@@ -34,3 +31,5 @@ Reduce heat to a simmer then stir in the coconut milk and chickpeas. Cook until 
 \freeform I've tried making this recipe in a hot pot with mixed results. I think it still works better on the stove. Even still, the recipe is very easy to make despite the long list of ingredients.
 
 \end{recipe}
+<!-- Type:Entree -->
+<!-- Cook:JonathanD -->

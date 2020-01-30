@@ -1,8 +1,5 @@
-<!-- Type:Main Dish -->
-<!-- Cook:ShelbyHatch -->
-
 # Spinach-Ricotta Pie
-
+_from Shelby Hatch_
 \begin {recipe} {Spinach-Ricotta Pie} {4-6} {3 hours}
 \freeform from The Moosewood Cookbook by Molly Katzen
 \freeform Preheat oven to 375
@@ -26,7 +23,7 @@ Chill the dough at least one hour.
 \ingredient [\fr 12] {cup} {grated sharp cheese}
 \ingredient [1] {dash} {nutmeg}
 
-Mix everything together, blending well. Spread into unbaked pie shell. 
+Mix everything together, blending well. Spread into unbaked pie shell.
 
 \ingredient [1] {cup} {sour cream}
 \ingredient [] {} {paprika}
@@ -37,3 +34,5 @@ Top with 1 cup sour cream spread to the edges of the crust and a generous applic
 Bake in 375 oven for 40-45 minutes. Serve piping hot.
 
 \end {recipe}
+<!-- Type:Main Dish -->
+<!-- Cook:ShelbyHatch -->
